@@ -235,7 +235,9 @@ function wp_bootstrap_starter_scripts() {
 }
 add_action( 'wp_enqueue_scripts', 'wp_bootstrap_starter_scripts' );
 
-
+function get_course($grade = null) {
+    include (locate_template('course.php', false, false));
+}
 
 /**
  * Add Preload for CDN scripts and stylesheet
