@@ -1,0 +1,56 @@
+#page {
+    position: relative;
+    min-height: 100vh;
+}
+
+#content {
+    padding-bottom: 2.5rem;
+}
+
+#main-content {
+    background-color: #FFF;
+    padding: 5vh 0;
+}
+.bg-skyblue {
+    background-color: #EEF9FC;
+}
+.navbar-inner {
+    background:transparent;
+}
+body {
+    background-color: #ECF7FB
+}
+.openning-page {
+    margin-top: 3vh;
+    height: 65vh;
+}
+.boy-pic {
+    width: 40%;
+    bottom: 0;
+    margin-top: auto;
+}
+.carousel-control-prev{
+    margin-left: -3.5rem;
+    width: 6%;
+}
+.carousel-control-next{
+    width: 6%;
+    margin-right: -3.5rem;
+}
+.carousel-control-prev-icon {
+    background-image: url("data:image/svg+xml;charset=utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' fill='%23000' viewBox='0 0 8 8'%3E%3Cpath d='M5.25 0l-4 4 4 4 1.5-1.5-2.5-2.5 2.5-2.5-1.5-1.5z'/%3E%3C/svg%3E") !important;
+}
+.carousel-control-next-icon {
+    background-image: url("data:image/svg+xml;charset=utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' fill='%23000' viewBox='0 0 8 8'%3E%3Cpath d='M2.75 0l-1.5 1.5 2.5 2.5-2.5 2.5 1.5 1.5 4-4-4-4z'/%3E%3C/svg%3E") !important;
+}
+.site-footer {
+    bottom: 0; left: 0; right: 0; background: #F99E3C
+}
+.card.bg-skyblue.border-0 {
+    transition: .5s;
+}
+.card.bg-skyblue.border-0:hover {
+    transform: scale(1.1, 1.1);
+    transition: .5s;
+    box-shadow: 0 0 8px #0c6251;
+}
