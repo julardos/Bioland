@@ -2,14 +2,15 @@
     position: relative;
     min-height: 100vh;
 }
-
 #content {
     padding-bottom: 2.5rem;
 }
-
 #main-content {
     background-color: #FFF;
     padding: 5vh 0;
+}
+#primary .container.d-flex.align-self-center{
+    height: 80vh;
 }
 .bg-skyblue {
     background-color: #EEF9FC;
@@ -20,9 +21,16 @@
 body {
     background-color: #ECF7FB
 }
+@media only screen and (min-device-width : 320px) and (max-device-width : 480px) {
+    .openning-page {
+        display: none;
+    }
+}
 .openning-page {
-    margin-top: 3vh;
-    height: 65vh;
+    height: 25vw;
+    height: -webkit-calc(3vh + 25vw);
+    height: -moz-calc(3vh + 25vw);
+    height: calc(3vh + 25vw);
 }
 .boy-pic {
     width: 40%;
@@ -53,4 +61,24 @@ body {
     transform: scale(1.1, 1.1);
     transition: .5s;
     box-shadow: 0 0 8px #0c6251;
+}
+.blood_flow {
+    display: block;
+    margin: auto;
+}
+
+/*Darah*/
+.darah_bg {
+    height: 80vh;
+}
+.info_text {
+    top: 25vh;
+    left: 35vw;
+}
+.keping_darah {
+    max-width: 10vw;
+    height: auto;
+}
+.kd_1 {
+    top: 40vh; left: 20vw
 }

@@ -6,7 +6,7 @@
  *
  * @link https://developer.wordpress.org/themes/basics/template-files/#template-partials
  *
- * @package WP_Bootstrap_Starter
+ * @package Bioland
  */
 
 ?><!DOCTYPE html>
@@ -24,10 +24,10 @@
     <?php if(!is_page_template( 'blank-page.php' ) && !is_page_template( 'blank-page-with-container.php' )): ?>
 	<header id="masthead" class="site-header navbar-static-top <?php echo wp_bootstrap_starter_bg_class(); ?>" role="banner">
         <div class="container">
-            <nav class="navbar navbar-expand-xl p-0 mt-3">
+            <nav class="navbar navbar-expand p-0">
                 <?php if ($_SERVER['REQUEST_URI'] !== null) { ?>
-                    <div class="navbar-brand" >
-                        <img src = "<?php echo  get_template_directory_uri() . '/assets/ASIK-LOGO-fix.png' ?>" alt = "Logo" class="h-25 w-25 mt-2" >
+                    <div class="navbar-brand">
+                        <img src = "<?php echo  get_template_directory_uri() . '/assets/ASIK-LOGO-fix.png' ?>" alt="Logo" class="h-25 w-25 mt-2" >
                     </div>
                 <?php } ?>
                 <ul class="navbar-nav ml-auto">
