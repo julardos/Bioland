@@ -1,0 +1,136 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" preserveAspectRatio="none" x="0px" y="0px" width="1920px" height="1080px" viewBox="0 0 1920 1080">
+<defs>
+<image id="jalur_baru_png" x="0" y="0" width="1920" height="1080" xlink:href="./../jalur-baru.png"/>
+
+<image id="FL_1_darah_png" x="0" y="0" width="468" height="261" xlink:href="./../1-darah.png"/>
+
+<image id="sel_darah_putih_png" x="0" y="0" width="1200" height="1200" xlink:href="./../sel-darah-putih.png"/>
+
+<image id="keping_darah_png" x="0" y="0" width="1000" height="1000" xlink:href="./../keping-darah.png"/>
+</defs>
+
+<g transform="matrix( 1, 0, 0, 1, 0,17) ">
+<use xlink:href="#jalur_baru_png"/>
+</g>
+
+<g transform="matrix( 0.9632720947265625, 0, 0, 0.9632720947265625, -42.15,152.9) ">
+<g transform="matrix( 0.33563232421875, 0, 0, 0.33563232421875, -78.55,-43.8) ">
+<use xlink:href="#FL_1_darah_png"/>
+</g>
+</g>
+
+<g transform="matrix( 0.9984283447265625, -0.0008544921875, 0.0008544921875, 0.9984283447265625, 1977.8,774.2) ">
+<g transform="matrix( 0.28900146484375, 0.166839599609375, -0.166839599609375, 0.28900146484375, -45.85,-76.75) ">
+<use xlink:href="#FL_1_darah_png"/>
+</g>
+</g>
+
+<g transform="matrix( 0.979217529296875, 0, 0, 0.979217529296875, 1841,713.15) ">
+<g transform="matrix( 0.32232666015625, -0.0863494873046875, 0.0863494873046875, 0.32232666015625, -86.7,-21.85) ">
+<use xlink:href="#FL_1_darah_png"/>
+</g>
+</g>
+
+<g transform="matrix( 1, 0, 0, 1, 1675.55,681.85) ">
+<g transform="matrix( 0.1307525634765625, 0, 0, 0.1307525634765625, -78.45,-78.45) ">
+<use xlink:href="#sel_darah_putih_png"/>
+</g>
+</g>
+
+<g transform="matrix( 0.953826904296875, -0.06689453125, 0.06689453125, 0.953826904296875, 1537.65,685.65) ">
+<g transform="matrix( 0.20977783203125, 0, 0, 0.20977783203125, -104.9,-104.9) ">
+<use xlink:href="#keping_darah_png"/>
+</g>
+</g>
+
+<g transform="matrix( 0.9241943359375, 0, 0, 0.9241943359375, 1384.4,722.75) ">
+<g transform="matrix( 0.3056488037109375, -0.0818939208984375, 0.0818939208984375, 0.3056488037109375, -82.2,-20.7) ">
+<use xlink:href="#FL_1_darah_png"/>
+</g>
+</g>
+
+<g transform="matrix( 0.951385498046875, 0, 0, 0.951385498046875, 1268.35,778.55) ">
+<g transform="matrix( 0.2918853759765625, 0.07818603515625, -0.07818603515625, 0.2918853759765625, -58.1,-56.4) ">
+<use xlink:href="#FL_1_darah_png"/>
+</g>
+</g>
+
+<g transform="matrix( 0.964752197265625, -0.259857177734375, 0.259857177734375, 0.964752197265625, 1134.1,861.9) ">
+<g transform="matrix( 0.2918853759765625, 0.07818603515625, -0.07818603515625, 0.2918853759765625, -58.1,-56.4) ">
+<use xlink:href="#FL_1_darah_png"/>
+</g>
+</g>
+
+<g transform="matrix( 1, 0, 0, 1, 994.85,932.05) ">
+<g transform="matrix( 0.1246337890625, 0.0719451904296875, -0.0719451904296875, 0.1246337890625, -31.6,-117.95) ">
+<use xlink:href="#sel_darah_putih_png"/>
+</g>
+</g>
+
+<g transform="matrix( 1, 0, 0, 1, 834.2,970.85) ">
+<g transform="matrix( 0.0864410400390625, 0.14971923828125, -0.14971923828125, 0.0864410400390625, 31.6,-118.05) ">
+<use xlink:href="#keping_darah_png"/>
+</g>
+</g>
+
+<g transform="matrix( 0.8470611572265625, 0, 0, 0.8470611572265625, 689.55,958.35) ">
+<g transform="matrix( 0.320709228515625, 0, 0, 0.320709228515625, -75.05,-41.85) ">
+<use xlink:href="#FL_1_darah_png"/>
+</g>
+</g>
+
+<g transform="matrix( 0.8712310791015625, 0.313873291015625, -0.313873291015625, 0.8712310791015625, 555.6,885.15) ">
+<g transform="matrix( 0.320709228515625, 0, 0, 0.320709228515625, -75.05,-41.85) ">
+<use xlink:href="#FL_1_darah_png"/>
+</g>
+</g>
+
+<g transform="matrix( 0.7475433349609375, 0.1189727783203125, -0.1189727783203125, 0.7475433349609375, 474.65,767.55) ">
+<g transform="matrix( 0.320709228515625, 0, 0, 0.320709228515625, -75.05,-41.85) ">
+<use xlink:href="#FL_1_darah_png"/>
+</g>
+</g>
+
+<g transform="matrix( 1, 0, 0, 1, 468.6,589.65) ">
+<g transform="matrix( 0, 0.12042236328125, -0.12042236328125, 0, 72.25,-72.25) ">
+<use xlink:href="#sel_darah_putih_png"/>
+</g>
+</g>
+
+<g transform="matrix( 1, 0, 0, 1, 475.1,468.8) ">
+<g transform="matrix( -0.1226959228515625, 0.1226959228515625, -0.1226959228515625, -0.1226959228515625, 122.7,0) ">
+<use xlink:href="#keping_darah_png"/>
+</g>
+</g>
+
+<g transform="matrix( 0.8820037841796875, 0, 0, 0.8820037841796875, 447.95,329.8) ">
+<g transform="matrix( 0.2218017578125, 0.2217864990234375, -0.2217864990234375, 0.2218017578125, -22.95,-80.85) ">
+<use xlink:href="#FL_1_darah_png"/>
+</g>
+</g>
+
+<g transform="matrix( 0.8310699462890625, 0, 0, 0.8310699462890625, 354.7,215.95) ">
+<g transform="matrix( 0.312255859375, -0.0836639404296875, 0.0836639404296875, 0.312255859375, -84,-21.15) ">
+<use xlink:href="#FL_1_darah_png"/>
+</g>
+</g>
+
+<g transform="matrix( 0.90936279296875, 0, 0, 0.90936279296875, 226.45,162.35) ">
+<g transform="matrix( 0.3038482666015625, 0, 0, 0.3038482666015625, -71.1,-39.65) ">
+<use xlink:href="#FL_1_darah_png"/>
+</g>
+</g>
+
+<g transform="matrix( 1, 0, 0, 1, 100.8,144.15) ">
+<g transform="matrix( 0.0314178466796875, 0.1172943115234375, -0.1172943115234375, 0.0314178466796875, 51.5,-89.2) ">
+<use xlink:href="#sel_darah_putih_png"/>
+</g>
+</g>
+
+    <script><![CDATA[
+    document.getElementById('FL_1_darah_png').addEventListener('mouseover', function () {
+        console.log("sadsa")
+    })
+  ]]></script>
+</svg>

@@ -14,7 +14,7 @@
 
 get_header(); ?>
 	<section id="primary" class="content-area">
-        <div class="container-fluid">
+        <div class="container-fluid px-0">
             <main id="main" class="jumbotron-fluid position-relative" role="main">
                 <div class="text-center mb-5">
                     <img src = "<?php echo  get_template_directory_uri() . '/assets/ASIK-LOGO-fix.png' ?>" alt = "Logo" class="h-25 w-25 mt-4">
@@ -29,9 +29,9 @@ get_header(); ?>
                 <div class="openning-page">
                     <div class="position-absolute" style="bottom: 0">
                         <div class="d-flex justify-content-between align-self-end">
-                            <img src="<?php echo  get_template_directory_uri() . '/assets/orang-di-depan.png' ?>" alt=""
+                            <img src="<?php echo  get_template_directory_uri() . '/assets/orang-di-depan1.png' ?>" alt=""
                                  class="boy-pic img-fluid">
-                            <img src="<?php echo  get_template_directory_uri() . '/assets/orang-di-depan-2.png' ?>" alt=""
+                            <img src="<?php echo  get_template_directory_uri() . '/assets/orang-di-depan2.png' ?>" alt=""
                                  class="boy-pic img-fluid">
                         </div>
                     </div>

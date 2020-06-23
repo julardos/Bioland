@@ -3,35 +3,13 @@
   <component name="ChangeListManager">
     <list default="true" id="8c121138-1dc7-4a75-9d62-917f335baa51" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/404.php" beforeDir="false" afterPath="$PROJECT_DIR$/404.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/archive.php" beforeDir="false" afterPath="$PROJECT_DIR$/archive.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blank-page-with-container.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blank-page.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/comments.php" beforeDir="false" afterPath="$PROJECT_DIR$/comments.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/orang-di-depan-2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/orang-di-depan.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/course.php" beforeDir="false" afterPath="$PROJECT_DIR$/course.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/footer.php" beforeDir="false" afterPath="$PROJECT_DIR$/footer.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fullwidth.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/functions.php" beforeDir="false" afterPath="$PROJECT_DIR$/functions.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/header.php" beforeDir="false" afterPath="$PROJECT_DIR$/header.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/inc/assets/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/inc/assets/css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/inc/custom-header.php" beforeDir="false" afterPath="$PROJECT_DIR$/inc/custom-header.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/inc/customizer.php" beforeDir="false" afterPath="$PROJECT_DIR$/inc/customizer.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/inc/extras.php" beforeDir="false" afterPath="$PROJECT_DIR$/inc/extras.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/inc/plugin-compatibility/jetpack/jetpack.php" beforeDir="false" afterPath="$PROJECT_DIR$/inc/plugin-compatibility/jetpack/jetpack.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/inc/template-tags.php" beforeDir="false" afterPath="$PROJECT_DIR$/inc/template-tags.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/left-sidebar.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/page.php" beforeDir="false" afterPath="$PROJECT_DIR$/page.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/screenshot.png" beforeDir="false" afterPath="$PROJECT_DIR$/screenshot.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/search.php" beforeDir="false" afterPath="$PROJECT_DIR$/search.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/single-attachment.php" beforeDir="false" afterPath="$PROJECT_DIR$/single-attachment.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/single.php" beforeDir="false" afterPath="$PROJECT_DIR$/single.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/template-parts/content-none.php" beforeDir="false" afterPath="$PROJECT_DIR$/template-parts/content-none.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/template-parts/content-notitle.php" beforeDir="false" afterPath="$PROJECT_DIR$/template-parts/content-notitle.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/template-parts/content-page.php" beforeDir="false" afterPath="$PROJECT_DIR$/template-parts/content-page.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/template-parts/content-search.php" beforeDir="false" afterPath="$PROJECT_DIR$/template-parts/content-search.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/template-parts/content.php" beforeDir="false" afterPath="$PROJECT_DIR$/template-parts/content.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/woocommerce.php" beforeDir="false" afterPath="$PROJECT_DIR$/woocommerce.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,11 +45,13 @@
     <property name="nodejs_package_manager_path" value="npm" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\wamp64\www\wordpress\wp-content\themes\bioland" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\wamp64\www\wordpress\wp-content\themes\bioland\assets" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\wamp64\www\wordpress\wp-content\themes\bioland\assets\gif" />
+      <recent name="C:\wamp64\www\wordpress\wp-content\themes\bioland\assets" />
+      <recent name="C:\wamp64\www\wordpress\wp-content\themes\bioland" />
     </key>
   </component>
   <component name="SvnConfiguration">
@@ -86,7 +66,8 @@
       <updated>1592548434997</updated>
       <workItem from="1592548436102" duration="5548000" />
       <workItem from="1592710261458" duration="21869000" />
-      <workItem from="1592793713332" duration="16684000" />
+      <workItem from="1592793713332" duration="16845000" />
+      <workItem from="1592879214068" duration="15586000" />
     </task>
     <servers />
   </component>
@@ -94,17 +75,29 @@
     <option name="version" value="2" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="716" y="309" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1592895423866">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="716" y="309" key="#com.intellij.fileTypes.FileTypeChooser/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1592895423866" />
+    <state x="690" y="266" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1592896206462">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="690" y="266" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1592896206462" />
     <state x="794" y="439" key="NewPhpFileDialog" timestamp="1592806785689">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="794" y="439" key="NewPhpFileDialog/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1592806785689" />
-    <state x="667" y="237" width="585" height="624" key="find.popup" timestamp="1592805626119">
+    <state x="667" y="237" width="585" height="624" key="find.popup" timestamp="1592912997805">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="667" y="237" width="585" height="624" key="find.popup/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1592805626119" />
-    <state x="616" y="240" key="run.anything.popup" timestamp="1592732203974">
+    <state x="667" y="237" width="585" height="624" key="find.popup/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1592912997805" />
+    <state x="616" y="240" key="run.anything.popup" timestamp="1592912257531">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="616" y="240" key="run.anything.popup/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1592732203974" />
+    <state x="616" y="240" key="run.anything.popup/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1592912257531" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1592912756829">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1592912756829" />
   </component>
 </project>

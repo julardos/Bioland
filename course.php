@@ -5,6 +5,19 @@
             <div class="carousel-inner py-4 px-3">
                 <div class="carousel-item active">
                     <div class="row">
+                        <?php if ($grade == 8) { ?>
+                        <div class="col-3">
+                            <div class="card bg-skyblue border-0">
+                                <div class="course_img mx-auto">
+                                    <img src="<?php echo get_template_directory_uri() .
+                                        "/assets/peredaran-darah-bener.png" ?>"
+                                         class="img-fluid"
+                                         alt="">
+                                </div>
+                                <p class="text-center font-weight-bold">Sistem peredaran darah manusia</p>
+                            </div>
+                        </div>
+                        <?php } else {?>
                         <div class="col-3">
                             <div class="card bg-skyblue border-0">
                                 <img src="<?php echo get_template_directory_uri() .
@@ -14,6 +27,7 @@
                                 >
                             </div>
                         </div>
+                        <?php } ?>
                         <div class="col-3">
                             <div class="card bg-skyblue border-0">
                                 <img src="<?php echo get_template_directory_uri() .
