@@ -2,6 +2,26 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8c121138-1dc7-4a75-9d62-917f335baa51" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/assets/SVG/1-darah.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/SVG/aliran-darah.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/SVG/jalur baru.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/SVG/keping darah.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/SVG/sel darah putih.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/gif/jantung-2.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/gif/orang-jalan-4-rev.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/gif/orang-sakit-s.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/gif/orang-sakit.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/gif/pembuluh-darah-baru.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/gif/peredaran-darah-kecil.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/girl.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/grandfather.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/man.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/orang-di-depan1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/orang-di-depan2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/sel-darah-putih.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/darah.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frekuensidenyutjantung.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jantungpembuluhdarah.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/assets/orang-di-depan-2.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/assets/orang-di-depan.png" beforeDir="false" />
@@ -67,7 +87,7 @@
       <workItem from="1592548436102" duration="5548000" />
       <workItem from="1592710261458" duration="21869000" />
       <workItem from="1592793713332" duration="16845000" />
-      <workItem from="1592879214068" duration="15586000" />
+      <workItem from="1592879214068" duration="16348000" />
     </task>
     <servers />
   </component>
