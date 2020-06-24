@@ -127,10 +127,4 @@
 <use xlink:href="#sel_darah_putih_png"/>
 </g>
 </g>
-
-    <script><![CDATA[
-    document.getElementById('FL_1_darah_png').addEventListener('mouseover', function () {
-        console.log("sadsa")
-    })
-  ]]></script>
 </svg>

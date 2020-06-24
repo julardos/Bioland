@@ -232,6 +232,12 @@ function wp_bootstrap_starter_scripts() {
 	if ( is_singular() && comments_open() && get_option( 'thread_comments' ) ) {
 		wp_enqueue_script( 'comment-reply' );
 	}
+	if ( is_page_template('jantungpembuluhdarah.php') ) {
+        wp_enqueue_script( 'jantung',  get_template_directory_uri() . '/inc/assets/js/jantung_pembuluh_darah.js', array(), '', true );
+    }
+    if ( is_page_template('darah.php') ) {
+        wp_enqueue_script( 'darah',  get_template_directory_uri() . '/inc/assets/js/darah.js', array(), '', true );
+    }
 }
 add_action( 'wp_enqueue_scripts', 'wp_bootstrap_starter_scripts' );
 

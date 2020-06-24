@@ -4,7 +4,7 @@
         <div id="carousel<?php echo $grade ?>Grade" class="carousel slide" data-ride="carousel">
             <div class="carousel-inner py-4 px-3">
                 <div class="carousel-item active">
-                    <div class="row">
+                    <div class="row px-2">
                         <?php if ($grade == 8) { ?>
                         <div class="col-3">
                             <a href="sistem-peredaran-darah">

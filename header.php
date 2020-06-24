@@ -29,7 +29,8 @@
             <nav class="navbar navbar-expand p-0">
                 <?php if ($_SERVER['REQUEST_URI'] !== null) { ?>
                     <div class="navbar-brand">
-                        <img src = "<?php echo  get_template_directory_uri() . '/assets/ASIK-LOGO-fix.png' ?>" alt="Logo" class="h-25 w-25 mt-2" >
+                         <?php echo '<a href="'.home_url().'">' ?><img src = "<?php echo  get_template_directory_uri() .
+                                '/assets/ASIK-LOGO-fix.png' ?>" alt="Logo" class="h-25 w-25 mt-2" ></a>
                     </div>
                 <?php } ?>
                 <ul class="navbar-nav ml-auto">

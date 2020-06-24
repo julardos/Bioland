@@ -122,6 +122,7 @@ get_header(); ?>
                     </div>
                 </div>
             </div>
+            <a href="<?php echo home_url() . '/sistem-peredaran-darah' ?>" class="btn btn-outline-info mt-5"><i class="fas fa-arrow-left"></i> Kembali ke bab utama</a>
         </div>
     </section>
 <?php
