@@ -3,14 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="8c121138-1dc7-4a75-9d62-917f335baa51" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/SVG/aliran-darah.svg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/SVG/aliran-darah.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/course.php" beforeDir="false" afterPath="$PROJECT_DIR$/course.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/darah.php" beforeDir="false" afterPath="$PROJECT_DIR$/darah.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/frekuensidenyutjantung.php" beforeDir="false" afterPath="$PROJECT_DIR$/frekuensidenyutjantung.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/functions.php" beforeDir="false" afterPath="$PROJECT_DIR$/functions.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/header.php" beforeDir="false" afterPath="$PROJECT_DIR$/header.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/inc/assets/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/inc/assets/css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jantungpembuluhdarah.php" beforeDir="false" afterPath="$PROJECT_DIR$/jantungpembuluhdarah.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,13 +40,13 @@
     <property name="nodejs_package_manager_path" value="npm" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\wamp64\www\wordpress\wp-content\themes\bioland\assets" />
+      <recent name="C:\wamp64\www\wordpress\wp-content\themes\bioland\assets\gif" />
+      <recent name="C:\wamp64\www\wordpress\wp-content\themes\bioland" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\wamp64\www\wordpress\wp-content\themes\bioland\assets" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\wamp64\www\wordpress\wp-content\themes\bioland\assets\gif" />
-      <recent name="C:\wamp64\www\wordpress\wp-content\themes\bioland\assets" />
-      <recent name="C:\wamp64\www\wordpress\wp-content\themes\bioland" />
     </key>
   </component>
   <component name="SvnConfiguration">
@@ -70,7 +63,9 @@
       <workItem from="1592710261458" duration="21869000" />
       <workItem from="1592793713332" duration="16845000" />
       <workItem from="1592879214068" duration="17871000" />
-      <workItem from="1592976482653" duration="12686000" />
+      <workItem from="1592976482653" duration="12787000" />
+      <workItem from="1593059270022" duration="30000" />
+      <workItem from="1593256792192" duration="308000" />
     </task>
     <servers />
   </component>

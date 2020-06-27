@@ -27,11 +27,11 @@ get_header(); ?>
                     <div class="mx-auto" style="max-width: 15vw">
                         <div class="row justify-content-between">
                             <div class="col-2 p-0">
-                                <img src="<?php echo  get_template_directory_uri() . "/assets/1-darah.png" ?>" alt=""
+                                <img src="<?php echo  get_template_directory_uri() . "/assets/rabbit.png" ?>" alt=""
                                      class="img-fluid">
                             </div>
                             <div class="col-2 p-0 float-right">
-                                <img src="<?php echo  get_template_directory_uri() . "/assets/1-darah.png" ?>" alt=""
+                                <img src="<?php echo  get_template_directory_uri() . "/assets/turtle.png" ?>" alt=""
                                      class="img-fluid">
                             </div>
                         </div>
@@ -77,15 +77,19 @@ get_header(); ?>
                 <h4 class="font-weight-bold">Suhu Tubuh</h4>
                 <p>Pada umumnya perempuan memiliki frekuensi denyut jantung yang lebih tinggi daripada laki-laki. Pada kondisi normal, denyut jantung perempuan berkisar antara 72-80 denyutan/menit, sedangkan denyut jantung laki-laki berkisar antara 64-72 denyutan/menit.</p>
             </div>
-            <div class="d-flex justify-content-center">
-                <div>
+            <div class="row justify-content-center">
+                <div class="col-2 d-flex">
                     <input type="range" orient="vertical" />
+                    <div class="">
+                        <img src="<?php echo  get_template_directory_uri() . "/assets/termo.png" ?>" alt=""
+                             class="img-fluid mx-auto">
+                    </div>
                 </div>
-                <div class="orang_sakit w-75">
+                <div class="col-8 orang_sakit w-75">
                     <img src="<?php echo  get_template_directory_uri() . "/assets/gif/orang-sakit-s.gif" ?>" alt=""
                          class="img-fluid mx-auto">
                 </div>
-                <div class="jantung">
+                <div class="col-2 jantung">
                     <img src="<?php echo  get_template_directory_uri() . "/assets/gif/jantung-2.gif" ?>" alt=""
                          class="img-fluid">
                 </div>
