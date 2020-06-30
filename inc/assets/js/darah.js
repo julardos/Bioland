@@ -46,7 +46,6 @@ function putihout() {
     document.getElementById('info_tab_putih').classList.add('d-none')
 }
 var currentScriptPath = function () {
-
     var scripts = document.querySelectorAll( 'script[src]' );
     var currentScript = scripts[ scripts.length - 1 ].src;
     var currentScriptChunks = currentScript.split( '/' );
