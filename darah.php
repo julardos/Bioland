@@ -11,6 +11,26 @@ get_header(); ?>
          <h1 class="text-danger font-weight-bold">Darah</h1>
          <p>Darah merupakan jaringan ikat yang berwujud cair dan tersusun atas dua komponen utama yaitu plasma dan elemen seluler, yang tersusun atas sel-sel darah. Darah tersusun atas 55% plasma darah dan 45% sel-sel darah. Secara normal, lebih dari 99% sel-sel darah tersusun atas sel darah merah (eritrosit) dan sisanya tersusun oleh sel darah putih (leukosit) dan keping darah (trombosit).</p>
          <a class="btn btn-outline-danger" href="<?php echo home_url() . '/sistem-peredaran-darah' ?>">Kembali</a>
+         <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#exampleModal">Animasi</button>
+     </div>
+     <div class="modal fade" id="exampleModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+         <div class="modal-dialog" style="max-width: 1000px; max-height: 550px" role="document">
+             <div class="modal-content">
+                 <div class="modal-header">
+                     <h5 class="modal-title" id="exampleModalLabel">Animasi</h5>
+                     <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                         <span aria-hidden="true">&times;</span>
+                     </button>
+                 </div>
+                 <div class="modal-body">
+                     <iframe src="<?php echo  get_template_directory_uri() . "/assets/gif/darah-ngalir.gif" ?>" frameborder="0"
+                             class="darah_bg img-fluid" style="max-height: 550px" id="aliran_darah"></iframe>
+                 </div>
+                 <div class="modal-footer">
+                     <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+                 </div>
+             </div>
+         </div>
      </div>
      <div id="info_tab" class="d-none info_tab">
         <div class="card border-0">
