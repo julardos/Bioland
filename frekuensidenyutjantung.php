@@ -85,11 +85,11 @@ get_header(); ?>
                              class="img-fluid mx-auto">
                     </div>
                 </div>
-                <div class="col-7 orang_sakit w-75">
+                <div class="col-6 orang_sakit w-75">
                     <img src="<?php echo  get_template_directory_uri() . "/assets/gif/orang-sakit-s.gif" ?>" alt=""
                          class="img-fluid mx-auto">
                 </div>
-                <div class="col-3 jantung d-flex align-items-center">
+                <div class="col-4 jantung d-flex align-items-center p-0">
                     <img src="<?php echo  get_template_directory_uri() . "/assets/gif/jantung-2.gif" ?>" alt=""
                          class="img-fluid" id="termo_jantung">
                 </div>
