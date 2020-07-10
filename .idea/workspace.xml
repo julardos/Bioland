@@ -3,6 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="8c121138-1dc7-4a75-9d62-917f335baa51" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/header.php" beforeDir="false" afterPath="$PROJECT_DIR$/header.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/inc/assets/js/frekuensi_jantung.js" beforeDir="false" afterPath="$PROJECT_DIR$/inc/assets/js/frekuensi_jantung.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,6 +76,9 @@
       <workItem from="1593584415274" duration="601000" />
       <workItem from="1593756749494" duration="38000" />
       <workItem from="1594099309007" duration="1192000" />
+      <workItem from="1594191985328" duration="1081000" />
+      <workItem from="1594276384502" duration="4334000" />
+      <workItem from="1594355636548" duration="327000" />
     </task>
     <servers />
   </component>
@@ -100,9 +106,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="616" y="240" key="run.anything.popup/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1594099592487" />
-    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1594099315895">
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1594355896388">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1594099315895" />
+    <state x="-1297" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1594192041211" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1594355896388" />
   </component>
 </project>

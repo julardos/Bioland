@@ -17,7 +17,6 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <link rel="profile" href="http://gmpg.org/xfn/11">
     <script src="https://code.createjs.com/createjs-2015.11.26.min.js"></script>
-    <script src="jantung.js"></script>
 <?php wp_head(); ?>
 </head>
 

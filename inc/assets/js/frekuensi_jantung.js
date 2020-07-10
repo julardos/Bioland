@@ -34,7 +34,7 @@ function termo_speed(speed) {
     document.getElementById("termo_jantung").src = src_image
 }
 
-var currentScriptPath = function () {
+function currentScriptPath() {
     var scripts = document.querySelectorAll( 'script[src]' );
     var currentScript = scripts[ scripts.length - 1 ].src;
     var currentScriptChunks = currentScript.split( '/' );

@@ -42,6 +42,5 @@ get_header(); ?>
             <?php get_course(9); ?>
         </div>
     </section>
-
 <?php
 get_footer();
