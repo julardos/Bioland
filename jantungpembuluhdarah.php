@@ -6,7 +6,7 @@
 get_header(); ?>
     <section id="primary" class="my-5">
         <div class="container">
-            <div class="position-absolute d-none" id="table_peredaran" role="tooltip">
+            <div class="position-absolute d-none" style="z-index: 90" id="table_peredaran" role="tooltip">
                 <div class="card bg-warning border-0 table-arteri">
                     <div class="card-header">
                         <h5 class="text-center font-weight-bold">Perbedaan Pembuluh Arteri dan Vena</h5>
@@ -110,7 +110,7 @@ get_header(); ?>
                         </div>
                     </div>
                 </div>
-                <button class="btn btn-outline-info mt-5" onclick="home_bab()"><i class="fas fa-arrow-left"></i> Kembali ke bab utama</button>
+                <button class="btn btn-outline-info mt-5 d-block mx-auto" onclick="home_bab()"><i class="fas fa-arrow-left"></i> Kembali ke bab utama</button>
             </div>
         </div>
     </section>
