@@ -54,21 +54,21 @@ get_header(); ?>
                     </div>
                 </div>
             </div>
-            <div class="d-flex">
-                <div class="jantung">
+            <div class="row">
+                <div class="col-12 col-lg-2 col-md-4 h-auto" style="width: 400px">
                     <img src="<?php echo  get_template_directory_uri() . "/assets/gif/jantung-2.gif" ?>" alt=""
                          class="img-fluid">
                 </div>
-                <div class="align-self-center" style="max-width: 40vw">
+                <div class="col-12 col-lg-10 col-md-8 align-self-center">
                     <h3 class="text-danger font-weight-bold">Jantung dan Pembuluh Darah</h3>
                     <p>Darah dapat mengalir ke seluruh tubuh karena di dalam tubuh kita terdapat organ yang berperan sebagai pemompa darah yang disebut dengan jantung. Jantung terdiri atas 4 ruangan, yaitu serambi (atrium) kiri dan serambi (atrium) kanan serta bilik (ventrikel) kiri dan bilik (ventrikel) kanan.</p>
                 </div>
             </div>
-            <div class="d-flex">
-                <div class="align-self-center" style="max-width: 40vw">
+            <div class="row">
+                <div class="col-12 col-md-6 col-lg-9 align-self-center">
                     <p>Pembuluh darah dapat dibedakan menjadi tiga, yaitu pembuluh nadi (arteri), pembuluh balik (vena), dan pembuluh kapiler. Arteri merupakan pembuluh darah yang mengalirkan darah keluar jantung, sedangkan vena mengalirkan darah masuk ke dalam jantung. Arteri berisi darah yang mengandung oksigen, kecuali pembuluh arteri pulmonalis. Vena berisi darah yang banyak mengandung karbon dioksida, kecuali vena pulmonalis. Ujung arteri dan vena bercabangcabang menjadi pembuluh-pembuluh kecil yang disebut pembuluh kapiler. Pada pembuluh kapiler inilah terjadi pertukaran gas oksigen dan gas karbon dioksida antara darah dengan jaringan tubuh.</p>
                 </div>
-                <div class="pembuluh_darah" data-toggle="tooltip" id="pembuluh_darah">
+                <div class="col-12 col-md-6 col-lg-3 pembuluh_darah" data-toggle="tooltip" id="pembuluh_darah">
                     <img src="<?php echo  get_template_directory_uri() . "/assets/gif/pembuluh-darah-baru.gif" ?>" alt=""
                          class="img-fluid">
                 </div>
@@ -97,7 +97,7 @@ get_header(); ?>
                     </div>
                 </div>
                 <div class="col-12 col-lg-6 col-md-6">
-                    <div class="card border-0 bg-skyblue h-100">
+                    <div class="card border-0 bg-skyblue h-100 mt-5 mt-sm-0">
                         <div class="card-body">
                             <h5 class="text-center font-weight-bold">
                                 Peredaran Darah Besar

@@ -6,9 +6,9 @@
 get_header(); ?>
 
 <section id="primary">
-    <div class="container d-flex align-self-center">
-        <div class="row align-self-center w-100">
-            <div class="col-12 col-lg-4 col-md-4">
+    <div class="container d-flex align-self-center mt-5 mt-lg-0 mt-md-0">
+        <div class="row align-self-center w-100 mt-5 mt-lg-0 mt-md-0">
+            <div class="col-12 col-lg-4 col-md-4 mt-5 mt-lg-0 mt-md-0">
                 <img src="<?php echo get_template_directory_uri() . "/assets/peredaran-darah-bener.png" ?>" alt=""
                      class="blood_flow img-fluid mx-auto">
             </div>

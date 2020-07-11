@@ -70,7 +70,7 @@ get_header(); ?>
                                  <div class="col-12 col-md-6 col-lg-4">
                                      <div class="w-100">
                                          <img src="<?php echo  get_template_directory_uri() .
-                                             "/assets/sel-darah-putih.png" ?>" alt="" class="img-fluid">
+                                             "/assets/darah-putih/Eosinofil.png" ?>" alt="" class="img-fluid">
                                      </div>
                                      <p class="font-weight-bold">
                                          Eosinofil
@@ -88,7 +88,7 @@ get_header(); ?>
                                  <div class="col-12 col-md-6 col-lg-4">
                                      <div class="w-100">
                                          <img src="<?php echo  get_template_directory_uri() .
-                                             "/assets/sel-darah-putih.png" ?>" alt="" class="img-fluid">
+                                             "/assets/darah-putih/Basofil.png" ?>" alt="" class="img-fluid">
                                      </div>
                                      <p class="font-weight-bold">
                                          Basofil
@@ -100,7 +100,7 @@ get_header(); ?>
                                  <div class="col-12 col-md-6 col-lg-4">
                                      <div class="w-100">
                                          <img src="<?php echo  get_template_directory_uri() .
-                                             "/assets/sel-darah-putih.png" ?>" alt="" class="img-fluid">
+                                             "/assets/darah-putih/Netrofil.png" ?>" alt="" class="img-fluid">
                                      </div>
                                      <p class="font-weight-bold">
                                          Netrofil
@@ -116,7 +116,7 @@ get_header(); ?>
                                  <div class="col-12 col-lg-6">
                                      <div class="w-100">
                                          <img src="<?php echo  get_template_directory_uri() .
-                                             "/assets/sel-darah-putih.png" ?>" alt="" class="img-fluid">
+                                             "/assets/darah-putih/Limfosit.png" ?>" alt="" class="img-fluid">
                                      </div>
                                      <p class="font-weight-bold">
                                          Limfosit
@@ -128,7 +128,7 @@ get_header(); ?>
                                  <div class="col-12 col-lg-6">
                                      <div class="w-100">
                                          <img src="<?php echo  get_template_directory_uri() .
-                                             "/assets/sel-darah-putih.png" ?>" alt="" class="img-fluid">
+                                             "/assets/darah-putih/Monosit.png" ?>" alt="" class="img-fluid">
                                      </div>
                                      <p class="font-weight-bold">
                                          Monosit

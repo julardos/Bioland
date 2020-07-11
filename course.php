@@ -6,7 +6,7 @@
                 <div class="carousel-item active">
                     <div class="row px-2">
                         <?php if ($grade == 8) { ?>
-                        <div class="col-3">
+                        <div class="col-12 col-lg-3 col-md-4 col-sm-6 mt-2 mt-lg-0 ">
                             <a href="sistem-peredaran-darah">
                                 <div class="card bg-skyblue border-0">
                                     <div class="course_img mx-auto">
@@ -20,7 +20,7 @@
                             </a>
                         </div>
                         <?php } else {?>
-                        <div class="col-3">
+                        <div class="col-12 col-lg-3 col-md-4 col-sm-6 mt-2 mt-lg-0 ">
                             <div class="card bg-skyblue border-0">
                                 <img src="<?php echo get_template_directory_uri() .
                                     "/assets/tumbnail-web-yg-kosong.png" ?>"
@@ -30,7 +30,7 @@
                             </div>
                         </div>
                         <?php } ?>
-                        <div class="col-3">
+                        <div class="col-12 col-lg-3 col-md-4 col-sm-6 mt-2 mt-lg-0 ">
                             <div class="card bg-skyblue border-0">
                                 <img src="<?php echo get_template_directory_uri() .
                                     "/assets/tumbnail-web-yg-kosong.png" ?>"
@@ -39,7 +39,7 @@
                                 >
                             </div>
                         </div>
-                        <div class="col-3">
+                        <div class="col-12 col-lg-3 col-md-4 col-sm-6 mt-2 mt-lg-0 ">
                             <div class="card bg-skyblue border-0">
                                 <img src="<?php echo get_template_directory_uri() .
                                     "/assets/tumbnail-web-yg-kosong.png" ?>"
@@ -48,7 +48,7 @@
                                 >
                             </div>
                         </div>
-                        <div class="col-3">
+                        <div class="col-12 col-lg-3 col-md-4 col-sm-6 mt-2 mt-lg-0 ">
                             <div class="card bg-skyblue border-0">
                                 <img src="<?php echo get_template_directory_uri() .
                                     "/assets/tumbnail-web-yg-kosong.png" ?>"
@@ -61,7 +61,7 @@
                 </div>
                 <div class="carousel-item">
                     <div class="row px-2">
-                        <div class="col-3">
+                        <div class="col-12 col-lg-3 col-md-4 col-sm-6 mt-2 mt-lg-0 ">
                             <div class="card bg-skyblue border-0">
                                 <img src="<?php echo get_template_directory_uri() .
                                     "/assets/tumbnail-web-yg-kosong.png" ?>"
@@ -70,7 +70,7 @@
                                 >
                             </div>
                         </div>
-                        <div class="col-3">
+                        <div class="col-12 col-lg-3 col-md-4 col-sm-6 mt-2 mt-lg-0 ">
                             <div class="card bg-skyblue border-0">
                                 <img src="<?php echo get_template_directory_uri() .
                                     "/assets/tumbnail-web-yg-kosong.png" ?>"
@@ -79,7 +79,7 @@
                                 >
                             </div>
                         </div>
-                        <div class="col-3">
+                        <div class="col-12 col-lg-3 col-md-4 col-sm-6 mt-2 mt-lg-0 ">
                             <div class="card bg-skyblue border-0">
                                 <img src="<?php echo get_template_directory_uri() .
                                     "/assets/tumbnail-web-yg-kosong.png" ?>"
@@ -88,7 +88,7 @@
                                 >
                             </div>
                         </div>
-                        <div class="col-3">
+                        <div class="col-12 col-lg-3 col-md-4 col-sm-6 mt-2 mt-lg-0 ">
                             <div class="card bg-skyblue border-0">
                                 <img src="<?php echo get_template_directory_uri() .
                                     "/assets/tumbnail-web-yg-kosong.png" ?>"
