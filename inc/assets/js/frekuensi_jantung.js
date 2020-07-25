@@ -41,3 +41,8 @@ function currentScriptPath() {
     var currentScriptFile =  currentScriptChunks[currentScriptChunks.length - 3] + "/" + currentScriptChunks[currentScriptChunks.length - 2] + "/" + currentScriptChunks[ currentScriptChunks.length - 1 ];
     return currentScript.replace( currentScriptFile, 'wp-content/themes/bioland/assets/gif/' );
 }
+jQuery(function ($) {
+    $(function() {
+        $('#showModal').modal('show')
+    });
+});

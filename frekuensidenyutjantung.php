@@ -5,6 +5,24 @@
 
 get_header(); ?>
     <section id="primary" class="my-5">
+        <div class="modal fade" id="showModal" tabindex="-1" role="dialog" aria-labelledby="showModalLabel" aria-hidden="true">
+            <div class="modal-dialog" style="max-width: 700px; max-height: 550px" role="document">
+                <div class="modal-content">
+                    <div class="modal-header text-white bg-primary">
+                        <h5 class="modal-title" id="exampleModalLabel">Informasi</h5>
+                        <button type="button" class="close text-white" data-dismiss="modal" aria-label="Close">
+                            <span aria-hidden="true">&times;</span>
+                        </button>
+                    </div>
+                    <div class="modal-body">
+                        <img src="<?php echo  get_template_directory_uri() . "/assets/Pop-Up-petunjuk.webp" ?>" class="img-fluid" alt="">
+                    </div>
+                    <div class="modal-footer">
+                        <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+                    </div>
+                </div>
+            </div>
+        </div>
         <div class="container">
             <div class="text-center">
                 <h2 class="font-weight-bold">Frekuensi Denyut Jantung</h2>
