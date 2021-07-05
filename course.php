@@ -1,5 +1,5 @@
 <div class="course">
-    <h5>Kelas <?php echo $grade ?> SMP</h5>
+    <h5>Kelas <?php echo $grade. ($grade > 9 ? ' SMA' : ' SMP') ?></h5>
     <div class="px-5">
         <div id="carousel<?php echo $grade ?>Grade" class="carousel slide" data-ride="carousel">
             <div class="carousel-inner py-4 px-3">
@@ -16,6 +16,20 @@
                                              alt="">
                                     </div>
                                     <p class="text-center text-dark font-weight-bold">Sistem peredaran darah manusia</p>
+                                </div>
+                            </a>
+                        </div>
+                        <?php } else if ($grade == 11) {?>
+                        <div class="col-12 col-lg-3 col-md-4 col-sm-6 mt-2 mt-lg-0 ">
+                            <a href="sistem-pernafasan">
+                                <div class="card bg-skyblue border-0">
+                                    <div class="course_img mx-auto">
+                                        <img src="<?php echo get_template_directory_uri() .
+                                            "/assets/pernafasan/alat-pernafasan-1.png" ?>"
+                                             class="img-fluid"
+                                             alt="">
+                                    </div>
+                                    <p class="text-center text-dark font-weight-bold">Sistem pernafasan manusia</p>
                                 </div>
                             </a>
                         </div>

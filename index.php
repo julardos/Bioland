@@ -37,9 +37,11 @@ get_header(); ?>
     <section id="main-content">
         <div class="container">
             <h5 class="text-center font-weight-bold pb-3">Cari Materi yang Kamu Inginkan!</h5>
-            <?php get_course(7); ?>
-            <?php get_course(8); ?>
-            <?php get_course(9); ?>
+            <?php
+                for ($i = 7; $i <= 12; $i++) {
+                    get_course($i);
+                }
+            ?>
         </div>
     </section>
 <?php

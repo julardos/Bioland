@@ -1,0 +1,7 @@
+semua slider dimulai dari :
+
+pelan -> agak pelan -> normal -> agak cepat -> cepat
+
+
+Untuk slider pada orang demam dan orang kedinginan, slider diatur dgn posisi vertikal
+diletakkan pada samping kiri termometer

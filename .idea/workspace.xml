@@ -3,8 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="8c121138-1dc7-4a75-9d62-917f335baa51" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frekuensidenyutjantung.php" beforeDir="false" afterPath="$PROJECT_DIR$/frekuensidenyutjantung.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/inc/assets/js/frekuensi_jantung.js" beforeDir="false" afterPath="$PROJECT_DIR$/inc/assets/js/frekuensi_jantung.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/course.php" beforeDir="false" afterPath="$PROJECT_DIR$/course.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,6 +25,14 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
   <component name="ProjectId" id="1dWkrOxKJnkFA1dfTtrfkAaB48z" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -36,21 +44,27 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/assets/gif" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\wamp64\www\wordpress\wp-content\themes\bioland\assets\gif" />
-      <recent name="C:\wamp64\www\wordpress\wp-content\themes\bioland\assets" />
-      <recent name="C:\wamp64\www\wordpress\wp-content\themes\bioland" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/assets/pernafasan" />
       <recent name="C:\wamp64\www\wordpress\wp-content\themes\bioland\assets\gif" />
       <recent name="C:\wamp64\www\wordpress\wp-content\themes\bioland\assets" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/pages/peredaranDarah" />
+      <recent name="$PROJECT_DIR$/pages/pernafasan" />
+      <recent name="$PROJECT_DIR$/pages" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/assets/pernafasan" />
     </key>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -82,39 +96,23 @@
       <workItem from="1594446517657" duration="250000" />
       <workItem from="1594470894411" duration="5000" />
       <workItem from="1595643716710" duration="926000" />
+      <workItem from="1625390500624" duration="637000" />
+      <workItem from="1625487347586" duration="3688000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="2" />
+    <option name="version" value="3" />
   </component>
-  <component name="WindowStateProjectService">
-    <state x="716" y="309" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1592895423866">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="716" y="309" key="#com.intellij.fileTypes.FileTypeChooser/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1592895423866" />
-    <state x="690" y="266" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1592896206462">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="690" y="266" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1592896206462" />
-    <state x="794" y="439" key="NewPhpFileDialog" timestamp="1592806785689">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="794" y="439" key="NewPhpFileDialog/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1592806785689" />
-    <state x="-1253" y="237" width="585" height="624" key="find.popup" timestamp="1594434460244">
-      <screen x="-1920" y="0" width="1920" height="1040" />
-    </state>
-    <state x="-1253" y="237" width="585" height="624" key="find.popup/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1594434460244" />
-    <state x="667" y="237" width="585" height="624" key="find.popup/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1592993907863" />
-    <state x="616" y="240" key="run.anything.popup" timestamp="1594099592487">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="616" y="240" key="run.anything.popup/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1594099592487" />
-    <state x="-1297" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1594446656340">
-      <screen x="-1920" y="0" width="1920" height="1040" />
-    </state>
-    <state x="-1297" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1594446656340" />
-    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1594433549347" />
-    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1594355896388" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
