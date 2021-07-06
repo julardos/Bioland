@@ -21,7 +21,7 @@
                         </div>
                         <?php } else if ($grade == 11) {?>
                         <div class="col-12 col-lg-3 col-md-4 col-sm-6 mt-2 mt-lg-0 ">
-                            <a href="sistem-pernafasan">
+                            <a href="sistem-pernapasan">
                                 <div class="card bg-skyblue border-0">
                                     <div class="course_img mx-auto">
                                         <img src="<?php echo get_template_directory_uri() .
