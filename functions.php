@@ -241,6 +241,9 @@ function wp_bootstrap_starter_scripts() {
     if ( is_page_template('frekuensidenyutjantung.php') ) {
         wp_enqueue_script( 'denyut',  get_template_directory_uri() . '/inc/assets/js/frekuensi_jantung.js', array(), '', true );
     }
+    if ( is_page_template('pengendalianKecepatanPernapasan.php') ) {
+        wp_enqueue_script( 'kecepatan',  get_template_directory_uri() . '/inc/assets/js/pernapasan/pengendalianKecepatan.js', array(), '', true );
+    }
 }
 add_action( 'wp_enqueue_scripts', 'wp_bootstrap_starter_scripts' );
 
