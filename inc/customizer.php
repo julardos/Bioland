@@ -2,7 +2,7 @@
 /**
  * WP Bootstrap Starter Theme Customizer
  *
- * @package Bioland
+ * @package Bioland_2
  */
 
 /**

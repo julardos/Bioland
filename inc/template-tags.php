@@ -4,7 +4,7 @@
  *
  * Eventually, some of the functionality here could be replaced by core features.
  *
- * @package Bioland
+ * @package Bioland_2
  */
 
 if ( ! function_exists( 'wp_bootstrap_starter_posted_on' ) ) :
