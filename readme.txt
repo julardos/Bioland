@@ -58,6 +58,10 @@ WP Bootstrap Starter includes support for Infinite Scroll in Jetpack.
 
 == Changelog ==
 
+= 4.0.0 - Juli 13, 2021 =
+* Add new Pernapasan page *
+* Add new Pernapasan asset *
+
 = 3.3.3 - March 02, 2020 =
 * Update the wp_bootstrap_navwalker to v4.3.0
 * /inc/wp_bootstrap_navwalker.php
