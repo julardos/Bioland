@@ -4,7 +4,7 @@
  *
  * @link https://codex.wordpress.org/Template_Hierarchy
  *
- * @package Bioland_2
+ * @package Bioland
  */
 
 get_header(); ?>

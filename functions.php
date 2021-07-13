@@ -4,7 +4,7 @@
  *
  * @link https://developer.wordpress.org/themes/basics/theme-functions/
  *
- * @package Bioland_2
+ * @package Bioland
  */
 
 if ( ! function_exists( 'wp_bootstrap_starter_setup' ) ) :

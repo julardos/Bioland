@@ -4,7 +4,7 @@
  *
  * @link https://developer.wordpress.org/themes/basics/template-hierarchy/#single-post
  *
- * @package Bioland_2
+ * @package Bioland
  */
 
 get_header(); ?>

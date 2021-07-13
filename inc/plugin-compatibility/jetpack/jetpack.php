@@ -4,7 +4,7 @@
  *
  * @link https://jetpack.com/
  *
- * @package Bioland_2
+ * @package Bioland
  */
 
 /**
