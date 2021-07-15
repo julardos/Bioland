@@ -228,6 +228,7 @@ function wp_bootstrap_starter_scripts() {
     }
     wp_enqueue_script('wp-bootstrap-starter-themejs', get_template_directory_uri() . '/inc/assets/js/theme-script.min.js', array(), '', true );
 	wp_enqueue_script( 'wp-bootstrap-starter-skip-link-focus-fix', get_template_directory_uri() . '/inc/assets/js/skip-link-focus-fix.min.js', array(), '20151215', true );
+    wp_enqueue_script('wp-h5p-resizer', 'https://biolandclass.com/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js');
 
 	if ( is_singular() && comments_open() && get_option( 'thread_comments' ) ) {
 		wp_enqueue_script( 'comment-reply' );

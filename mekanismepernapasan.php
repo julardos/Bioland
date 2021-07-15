@@ -22,14 +22,12 @@ get_header(); ?>
             <div class="row justify-content-center">
                 <div class="col-4">
                     <div class="jantung-bigger mx-auto">
-                        <img src="<?php echo  get_template_directory_uri() . "/assets/pernafasan/gif/mekanisme-dada-ekspirasi.gif" ?>" alt=""
-                             class="img-fluid">
+                        <iframe src="https://biolandclass.com/wp-admin/admin-ajax.php?action=h5p_embed&id=3" width="958" height="1159" frameborder="0" allowfullscreen="allowfullscreen" title="Mekanisme Pernapasan Ekspirasi pada Dada"></iframe>
                     </div>
                 </div>
                 <div class="col-4">
                     <div class="jantung-bigger mx-auto">
-                        <img src="<?php echo  get_template_directory_uri() . "/assets/pernafasan/gif/mekanisme-dada-inspirasi.gif" ?>" alt=""
-                             class="img-fluid">
+                        <iframe src="https://biolandclass.com/wp-admin/admin-ajax.php?action=h5p_embed&id=1" width="958" height="983" frameborder="0" allowfullscreen="allowfullscreen" title="Mekanisme Pernapasan Inspirasi pada Diafragma"></iframe>
                     </div>
                 </div>
             </div>
@@ -43,14 +41,12 @@ get_header(); ?>
             <div class="row justify-content-center">
                 <div class="col-4">
                     <div class="jantung-bigger mx-auto">
-                        <img src="<?php echo  get_template_directory_uri() . "/assets/pernafasan/gif/mekanisme-diafragma-ekspirasi.gif" ?>" alt=""
-                             class="img-fluid">
+                        <iframe src="https://biolandclass.com/wp-admin/admin-ajax.php?action=h5p_embed&id=5" width="958" height="983" frameborder="0" allowfullscreen="allowfullscreen" title="Mekanisme Pernapasan Inspirasi pada Diafragma"></iframe>
                     </div>
                 </div>
                 <div class="col-4">
                     <div class="jantung-bigger mx-auto">
-                        <img src="<?php echo  get_template_directory_uri() . "/assets/pernafasan/gif/mekanisme-diafragma-inspirasi.gif" ?>" alt=""
-                             class="img-fluid">
+                        <iframe src="https://biolandclass.com/wp-admin/admin-ajax.php?action=h5p_embed&id=4" width="958" height="983" frameborder="0" allowfullscreen="allowfullscreen" title="Mekanisme Pernapasan Inspirasi pada Diafragma"></iframe>
                     </div>
                 </div>
             </div>
@@ -64,21 +60,17 @@ get_header(); ?>
             <div class="row justify-content-center">
                 <div class="col-4">
                     <div class="jantung-bigger mx-auto">
-                        <img src="<?php echo  get_template_directory_uri() . "/assets/pernafasan/gif/pernapasan-tidal.gif" ?>" alt=""
-                             class="img-fluid">
-                        <p>Volume udara tidal</p>
+                        <iframe src="https://biolandclass.com/wp-admin/admin-ajax.php?action=h5p_embed&id=11" width="958" height="982" frameborder="0" allowfullscreen="allowfullscreen" title="Volume Udara Tidal"></iframe>
                     </div>
                 </div>
                 <div class="col-4">
                     <div class="jantung-bigger mx-auto">
-                        <img src="<?php echo  get_template_directory_uri() . "/assets/pernafasan/gif/pernapasan-udara-komplementer.gif" ?>" alt=""
-                             class="img-fluid">
+                        <iframe src="https://biolandclass.com/wp-admin/admin-ajax.php?action=h5p_embed&id=12" width="958" height="982" frameborder="0" allowfullscreen="allowfullscreen" title="Volume Udara Tidal"></iframe>
                     </div>
                 </div>
                 <div class="col-4">
                     <div class="jantung-bigger mx-auto">
-                        <img src="<?php echo  get_template_directory_uri() . "/assets/pernafasan/gif/pernapasan-suplementer.gif" ?>" alt=""
-                             class="img-fluid">
+                        <iframe src="https://biolandclass.com/wp-admin/admin-ajax.php?action=h5p_embed&id=13" width="958" height="982" frameborder="0" allowfullscreen="allowfullscreen" title="Volume Udara Tidal"></iframe>
                     </div>
                 </div>
             </div>
@@ -86,20 +78,17 @@ get_header(); ?>
             <div class="row justify-content-center">
                 <div class="col-4">
                     <div class="jantung-bigger mx-auto">
-                        <img src="<?php echo  get_template_directory_uri() . "/assets/pernafasan/gif/pernapasan-residu.gif" ?>" alt=""
-                             class="img-fluid">
+                        <iframe src="https://biolandclass.com/wp-admin/admin-ajax.php?action=h5p_embed&id=14" width="958" height="982" frameborder="0" allowfullscreen="allowfullscreen" title="Volume Udara Tidal"></iframe>
                     </div>
                 </div>
                 <div class="col-4">
                     <div class="jantung-bigger mx-auto">
-                        <img src="<?php echo  get_template_directory_uri() . "/assets/pernafasan/gif/pernapasan-kapasitas-vital-paru.gif" ?>" alt=""
-                             class="img-fluid">
+                        <iframe src="https://biolandclass.com/wp-admin/admin-ajax.php?action=h5p_embed&id=15" width="958" height="982" frameborder="0" allowfullscreen="allowfullscreen" title="Volume Udara Tidal"></iframe>
                     </div>
                 </div>
                 <div class="col-4">
                     <div class="jantung-bigger mx-auto">
-                        <img src="<?php echo  get_template_directory_uri() . "/assets/pernafasan/gif/pernapasan-total-paru-paru.gif" ?>" alt=""
-                             class="img-fluid">
+                        <iframe src="https://biolandclass.com/wp-admin/admin-ajax.php?action=h5p_embed&id=16" width="958" height="982" frameborder="0" allowfullscreen="allowfullscreen" title="Volume Udara Tidal"></iframe>
                     </div>
                 </div>
             </div>
