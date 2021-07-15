@@ -61,8 +61,6 @@ get_header(); ?>
                 <div class="col-4">
                     <div class="jantung-bigger mx-auto">
                         <iframe src="https://biolandclass.com/wp-admin/admin-ajax.php?action=h5p_embed&id=11" width="958" height="982" frameborder="0" allowfullscreen="allowfullscreen" title="Volume Udara Tidal"></iframe>
-                    <div class="jantung-bigger mx-auto text-center">
-                        <iframe src="https://biolandclass.com/wp-admin/admin-ajax.php?action=h5p_embed&id=11" width="958" height="982" frameborder="0" allowfullscreen="allowfullscreen" title="Volume Udara Tidal"></iframe>
                         <h5 class="font-weight-bold">Volume udara tidal</h5>
                     </div>
                 </div>
