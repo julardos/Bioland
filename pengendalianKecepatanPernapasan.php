@@ -24,8 +24,7 @@ get_header(); ?>
         <div class="row justify-content-center">
             <div class="col-12">
                 <div class="jantung-bigger mx-auto">
-                    <img src="<?php echo  get_template_directory_uri() . "/assets/pernafasan/gif/cwe-cwo.gif" ?>" alt=""
-                         class="img-fluid">
+                    <iframe src="https://biolandclass.com/wp-admin/admin-ajax.php?action=h5p_embed&id=6" width="958" height="1159" frameborder="0" allowfullscreen="allowfullscreen" title="Mekanisme Pernapasan Ekspirasi pada Dada"></iframe>
                 </div>
             </div>
         </div>
@@ -94,16 +93,14 @@ get_header(); ?>
         </div>
         <div class="row">
             <div class="col-12 col-md-4">
-                <img src="<?php echo  get_template_directory_uri() . "/assets/pernafasan/gif/orang-berdiri.gif" ?>" alt=""
-                     class="img-fluid" >
+                <iframe src="https://biolandclass.com/wp-admin/admin-ajax.php?action=h5p_embed&id=23" width="958" height="1159" frameborder="0" allowfullscreen="allowfullscreen" title="Mekanisme Pernapasan Ekspirasi pada Dada"></iframe>
             </div>
             <div class="col-12 col-md-4">
                 <img src="<?php echo  get_template_directory_uri() . "/assets/pernafasan/gif/orang-duduk.gif" ?>" alt=""
                      class="img-fluid" >
             </div>
             <div class="col-12 col-md-4">
-                <img src="<?php echo  get_template_directory_uri() . "/assets/pernafasan/gif/orang-berlari.gif" ?>" alt=""
-                     class="img-fluid" >
+                <iframe src="https://biolandclass.com/wp-admin/admin-ajax.php?action=h5p_embed&id=8" width="958" height="1159" frameborder="0" allowfullscreen="allowfullscreen" title="Mekanisme Pernapasan Ekspirasi pada Dada"></iframe>
             </div>
         </div>
     </div>
@@ -151,12 +148,10 @@ get_header(); ?>
         </div>
         <div class="row">
             <div class="col-12 col-md-6">
-                <img src="<?php echo  get_template_directory_uri() . "/assets/pernafasan/gif/orang-sehat.gif" ?>" alt=""
-                     class="img-fluid" >
+                <iframe src="https://biolandclass.com/wp-admin/admin-ajax.php?action=h5p_embed&id=21" width="958" height="1159" frameborder="0" allowfullscreen="allowfullscreen" title="Mekanisme Pernapasan Ekspirasi pada Dada"></iframe>
             </div>
             <div class="col-12 col-md-6">
-                <img src="<?php echo  get_template_directory_uri() . "/assets/pernafasan/gif/orang-asma.gif" ?>" alt=""
-                     class="img-fluid" >
+                <iframe src="https://biolandclass.com/wp-admin/admin-ajax.php?action=h5p_embed&id=22" width="958" height="1159" frameborder="0" allowfullscreen="allowfullscreen" title="Mekanisme Pernapasan Ekspirasi pada Dada"></iframe>
             </div>
         </div>
     </div>
@@ -169,8 +164,7 @@ get_header(); ?>
         </div>
         <div class="row justify-content-center">
             <div class="col-8">
-                <img src="<?php echo  get_template_directory_uri() . "/assets/pernafasan/gif/orang-mendaki.gif" ?>" alt=""
-                     class="img-fluid" >
+                <iframe src="https://biolandclass.com/wp-admin/admin-ajax.php?action=h5p_embed&id=20" width="958" height="1159" frameborder="0" allowfullscreen="allowfullscreen" title="Mekanisme Pernapasan Ekspirasi pada Dada"></iframe>
             </div>
         </div>
     </div>

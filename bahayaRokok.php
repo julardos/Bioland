@@ -9,8 +9,7 @@ get_header(); ?>
     <div class="container ">
         <div class="row justify-content-center">
             <div class="col-4">
-                <img src="<?php echo get_template_directory_uri() . "/assets/pernafasan/rokok.png" ?>" alt=""
-                     class="blood_flow img-fluid mx-auto">
+                <iframe src="https://biolandclass.com/wp-admin/admin-ajax.php?action=h5p_embed&id=2" width="958" height="1159" frameborder="0" allowfullscreen="allowfullscreen" title="Mekanisme Pernapasan Ekspirasi pada Dada"></iframe>
             </div>
             <div class="col-8">
                 <div class="text-center my-auto">
