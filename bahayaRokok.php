@@ -31,20 +31,17 @@ get_header(); ?>
         <div class="row justify-content-center">
             <div class="col-12 col-md-4">
                 <div class="jantung-bigger mx-auto">
-                    <img src="<?php echo  get_template_directory_uri() . "/assets/pernafasan/gif/mata.gif" ?>" alt=""
-                         class="img-fluid">
+                    <iframe src="https://biolandclass.com/wp-admin/admin-ajax.php?action=h5p_embed&id=17" width="958" height="1159" frameborder="0" allowfullscreen="allowfullscreen" title="Mekanisme Pernapasan Ekspirasi pada Dada"></iframe>
                 </div>
             </div>
             <div class="col-12 col-md-4">
                 <div class="jantung-bigger mx-auto">
-                    <img src="<?php echo  get_template_directory_uri() . "/assets/pernafasan/gif/mulut.gif" ?>" alt=""
-                         class="img-fluid">
+                    <iframe src="https://biolandclass.com/wp-admin/admin-ajax.php?action=h5p_embed&id=19" width="958" height="1159" frameborder="0" allowfullscreen="allowfullscreen" title="Mekanisme Pernapasan Ekspirasi pada Dada"></iframe>
                 </div>
             </div>
             <div class="col-12 col-md-4">
                 <div class="jantung-bigger mx-auto">
-                    <img src="<?php echo  get_template_directory_uri() . "/assets/pernafasan/gif/tangan.gif" ?>" alt=""
-                         class="img-fluid">
+                    <iframe src="https://biolandclass.com/wp-admin/admin-ajax.php?action=h5p_embed&id=18" width="958" height="1159" frameborder="0" allowfullscreen="allowfullscreen" title="Mekanisme Pernapasan Ekspirasi pada Dada"></iframe>
                 </div>
             </div>
         </div>
@@ -52,13 +49,19 @@ get_header(); ?>
             <div class="col-12 col-md-6">
                 <div class="jantung-bigger mx-auto">
                     <img src="<?php echo  get_template_directory_uri() . "/assets/pernafasan/animasi-slider/orang-sehat-berlari/orang-sehat-jogging-cepat.gif" ?>" alt=""
-                         class="img-fluid">
+                         class="img-fluid" id="orang-sehat-berlari/orang-sehat-jogging">
+                    <div style="padding: 0 5rem">
+                        <input type="range" class="form-control-range" onchange="activity_speed(this.value, 'orang-sehat-berlari/orang-sehat-jogging')">
+                    </div>
                 </div>
             </div>
             <div class="col-12 col-md-6">
                 <div class="jantung-bigger mx-auto">
                     <img src="<?php echo  get_template_directory_uri() . "/assets/pernafasan/animasi-slider/orang-perokok-berlari/orang-perokok-berlari-cepat.gif" ?>" alt=""
-                         class="img-fluid">
+                         class="img-fluid" id="orang-perokok-berlari/orang-perokok-berlari">
+                    <div style="padding: 0 5rem">
+                        <input type="range" class="form-control-range" onchange="activity_speed(this.value, 'orang-perokok-berlari/orang-perokok-berlari')">
+                    </div>
                 </div>
             </div>
         </div>

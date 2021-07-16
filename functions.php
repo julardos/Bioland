@@ -242,7 +242,7 @@ function wp_bootstrap_starter_scripts() {
     if ( is_page_template('frekuensidenyutjantung.php') ) {
         wp_enqueue_script( 'denyut',  get_template_directory_uri() . '/inc/assets/js/frekuensi_jantung.js', array(), '', true );
     }
-    if ( is_page_template('pengendalianKecepatanPernapasan.php') ) {
+    if ( is_page_template('pengendalianKecepatanPernapasan.php') || is_page_template('bahayaRokok.php')) {
         wp_enqueue_script( 'kecepatan',  get_template_directory_uri() . '/inc/assets/js/pernapasan/pengendalianKecepatan.js', array(), '', true );
     }
 }
