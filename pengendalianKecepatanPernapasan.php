@@ -44,7 +44,7 @@ get_header(); ?>
                 <img src="<?php echo  get_template_directory_uri() . "/assets/pernafasan/animasi-slider/umur/umur-normal.gif" ?>" alt=""
                      class="img-fluid" id="umur/umur">
                 <div style="padding: 0 5rem">
-                    <input type="range" class="form-control-range" onchange="activity_speed(this.value, 'umur/umur')">
+                    <input type="range" class="form-control-range" onchange="activity_speed(this.value, 'umur/umur', true)">
                 </div>
             </div>
         </div>
@@ -66,7 +66,7 @@ get_header(); ?>
                         <img src="<?php echo  get_template_directory_uri() . "/assets/pernafasan/animasi-slider/orang-demam/orang-demam-normal.gif" ?>" alt=""
                              class="img-fluid" id="orang-demam/orang-demam">
                         <div style="padding: 0 5rem">
-                            <input type="range" class="form-control-range" onchange="activity_speed(this.value, 'orang-demam/orang-demam')">
+                            <input type="range" class="form-control-range" onchange="activity_speed(this.value, 'orang-demam/orang-demam', true)">
                         </div>
                     </div>
                 </div>
@@ -77,7 +77,7 @@ get_header(); ?>
                         <img src="<?php echo  get_template_directory_uri() . "/assets/pernafasan/animasi-slider/orang-kedinginan/orang-kedinginan-normal.gif" ?>" alt=""
                              class="img-fluid" id="orang-kedinginan/orang-kedinginan">
                         <div style="padding: 0 5rem">
-                            <input type="range" class="form-control-range" onchange="activity_speed(this.value, 'orang-kedinginan/orang-kedinginan')">
+                            <input type="range" class="form-control-range" onchange="activity_speed(this.value, 'orang-kedinginan/orang-kedinginan', true)">
                         </div>
                     </div>
                 </div>

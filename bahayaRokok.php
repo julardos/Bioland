@@ -51,7 +51,7 @@ get_header(); ?>
                     <img src="<?php echo  get_template_directory_uri() . "/assets/pernafasan/animasi-slider/orang-sehat-berlari/orang-sehat-jogging-cepat.gif" ?>" alt=""
                          class="img-fluid" id="orang-sehat-berlari/orang-sehat-jogging">
                     <div style="padding: 0 5rem">
-                        <input type="range" class="form-control-range" onchange="activity_speed(this.value, 'orang-sehat-berlari/orang-sehat-jogging')">
+                        <input type="range" class="form-control-range" onchange="activity_speed(this.value, 'orang-sehat-berlari/orang-sehat-jogging', true)">
                     </div>
                 </div>
             </div>
@@ -60,7 +60,7 @@ get_header(); ?>
                     <img src="<?php echo  get_template_directory_uri() . "/assets/pernafasan/animasi-slider/orang-perokok-berlari/orang-perokok-berlari-cepat.gif" ?>" alt=""
                          class="img-fluid" id="orang-perokok-berlari/orang-perokok-berlari">
                     <div style="padding: 0 5rem">
-                        <input type="range" class="form-control-range" onchange="activity_speed(this.value, 'orang-perokok-berlari/orang-perokok-berlari')">
+                        <input type="range" class="form-control-range" onchange="activity_speed(this.value, 'orang-perokok-berlari/orang-perokok-berlari', true)">
                     </div>
                 </div>
             </div>
