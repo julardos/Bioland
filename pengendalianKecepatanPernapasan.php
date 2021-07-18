@@ -96,8 +96,7 @@ get_header(); ?>
                 <iframe src="https://biolandclass.com/wp-admin/admin-ajax.php?action=h5p_embed&id=23" width="958" height="1159" frameborder="0" allowfullscreen="allowfullscreen" title="Mekanisme Pernapasan Ekspirasi pada Dada"></iframe>
             </div>
             <div class="col-12 col-md-4">
-                <img src="<?php echo  get_template_directory_uri() . "/assets/pernafasan/gif/orang-duduk.gif" ?>" alt=""
-                     class="img-fluid" >
+                <iframe src="https://biolandclass.com/wp-admin/admin-ajax.php?action=h5p_embed&id=7" width="958" height="1159" frameborder="0" allowfullscreen="allowfullscreen" title="Mekanisme Pernapasan Ekspirasi pada Dada"></iframe>
             </div>
             <div class="col-12 col-md-4">
                 <iframe src="https://biolandclass.com/wp-admin/admin-ajax.php?action=h5p_embed&id=8" width="958" height="1159" frameborder="0" allowfullscreen="allowfullscreen" title="Mekanisme Pernapasan Ekspirasi pada Dada"></iframe>

@@ -3,10 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="2cbc9b0e-e547-4767-929e-85621714a781" name="Default Changelist" comment="Add Volume paru&quot; name">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bahayaRokok.php" beforeDir="false" afterPath="$PROJECT_DIR$/bahayaRokok.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/inc/assets/css/custom-h5p.css" beforeDir="false" afterPath="$PROJECT_DIR$/inc/assets/css/custom-h5p.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mekanismepernapasan.php" beforeDir="false" afterPath="$PROJECT_DIR$/mekanismepernapasan.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pengendalianKecepatanPernapasan.php" beforeDir="false" afterPath="$PROJECT_DIR$/pengendalianKecepatanPernapasan.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,7 +54,7 @@
       <updated>1626440027373</updated>
       <workItem from="1626440028674" duration="2644000" />
       <workItem from="1626486822680" duration="623000" />
-      <workItem from="1626515467190" duration="978000" />
+      <workItem from="1626515467190" duration="2251000" />
     </task>
     <servers />
   </component>

@@ -53,7 +53,7 @@ get_header(); ?>
                         <a href="bahaya-rokok-bagi-kesehatan" class="text-dark">
                             <div class="card border-0 h-100 align-self-center">
                                 <div class="card-body">
-                                    <img src="<?php echo get_template_directory_uri() . "/assets/pernafasan/rokok.png" ?>" alt=""
+                                    <img src="<?php echo get_template_directory_uri() . "/assets/pernafasan/rokok1.png" ?>" alt=""
                                          class="img-fluid d-block mx-auto" style="max-height: 8rem">
                                     <h5 class="text-center mt-2">Bahaya Rokok Bagi kesehatan</h5>
                                 </div>
