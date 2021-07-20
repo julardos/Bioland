@@ -143,7 +143,7 @@ get_header(); ?>
 <section class="py-4">
     <div class="container my-4">
         <div class="text-center">
-            <h2 class="font-weight-bold">Posisi dan Aktivitas Tubuh</h2>
+            <h2 class="font-weight-bold">Status Kesehatan</h2>
         </div>
         <div class="row">
             <div class="col-12 col-md-6">
@@ -159,7 +159,7 @@ get_header(); ?>
 <section class="bg-white py-4">
     <div class="container my-4">
         <div class="text-center">
-            <h2 class="font-weight-bold">Posisi dan Aktivitas Tubuh</h2>
+            <h2 class="font-weight-bold">Ketinggian Tempat</h2>
         </div>
         <div class="row justify-content-center">
             <div class="col-8">

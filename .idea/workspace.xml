@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2cbc9b0e-e547-4767-929e-85621714a781" name="Default Changelist" comment="Add Volume paru&quot; name">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="2cbc9b0e-e547-4767-929e-85621714a781" name="Default Changelist" comment="add rokok, change orang duduk" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -55,7 +53,16 @@
       <workItem from="1626440028674" duration="2644000" />
       <workItem from="1626486822680" duration="623000" />
       <workItem from="1626515467190" duration="2251000" />
+      <workItem from="1626581451683" duration="757000" />
     </task>
+    <task id="LOCAL-00001" summary="add rokok, change orang duduk">
+      <created>1626581576715</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1626581576715</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -75,6 +82,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Add Volume paru&quot; name" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add Volume paru&quot; name" />
+    <MESSAGE value="add rokok, change orang duduk" />
+    <option name="LAST_COMMIT_MESSAGE" value="add rokok, change orang duduk" />
   </component>
 </project>
